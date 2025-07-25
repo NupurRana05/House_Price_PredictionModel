@@ -35,6 +35,16 @@ This project is a Machine Learning-based House Price Prediction System for Banga
 <img width="1759" height="975" alt="image" src="https://github.com/user-attachments/assets/8f653baa-7bcf-4d7e-b036-039d640dae26" />
 
 
+This is a page of House Price Pridiction
+
+
+
+<img width="785" height="928" alt="image" src="https://github.com/user-attachments/assets/019ed9be-a642-4fad-b76f-9a4dc19d5da9" />
+
+This is a result
+
+
+
 ## 🚀 Getting Started
 
 1. Clone the repository:
